@@ -64,6 +64,7 @@ Check out my **[College GitHub Profile](https://github.com/ijzepeda-LC)** for mo
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ijzepeda&repo=Recipix&v=2)](https://github.com/ijzepeda/Recipix)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ijzepeda&repo=Kadabra_public&v=1)](https://github.com/ijzepeda/Kadabra_public)
 [![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=ijzepeda&repo=CareNavi&v=1)](https://github.com/ijzepeda/CareNavi) 
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=ijzepeda&repo=Foodier&v=2)](https://github.com/ijzepeda/Foodier) 
 
 ## 📊 Weekly Development Breakdown
 
