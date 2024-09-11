@@ -22,9 +22,12 @@ Here are some ideas to get you started:
 
 I'm a software developer (AI & Android) who is passionate about coding and creating things that make a difference. 
 
+Check out my **[College GitHub Profile](https://github.com/ijzepeda-LC)** for more academic projects and collaborations.
+
 - 🔭 I’m currently working on AI on Unity 
 - 🌱 I’m currently learning AWS and OpenStack
 - 💬 Ask me about anything, I'm happy to help!
+  
 
 ## ⚡ GitHub Stats
 
