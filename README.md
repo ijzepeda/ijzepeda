@@ -43,6 +43,15 @@ Check out my **[College GitHub Profile](https://github.com/ijzepeda-LC)** for mo
   </a>
 </div>
 
+
+## GitHub Stats for College Profile
+<!-- GitHub Stats for College Profile -->
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ijzepeda-LC&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijzepeda-LC&layout=compact" alt="Top Languages" style="width: 48%;"/>
+</div>
+
+
 ## 🌟 Featured Repositories
 
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ijzepeda&repo=hackathon)](https://github.com/ijzepeda/hackathon)
