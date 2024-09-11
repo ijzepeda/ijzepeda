@@ -44,18 +44,26 @@ Check out my **[College GitHub Profile](https://github.com/ijzepeda-LC)** for mo
 </div>
 
 
-## GitHub Stats for College Profile
+### 📚 GitHub Stats for College Profile
 <!-- GitHub Stats for College Profile -->
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ijzepeda-LC&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijzepeda-LC&layout=compact" alt="Top Languages" style="width: 48%;"/>
+<!-- ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijzepeda-LC&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijzepeda-LC&layout=compact)](https://github.com/ijzepeda-LC)
+ -->
+<div style="display:flex;">
+  <a href="https://github.com/ijzepeda-LC/repo1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ijzepeda-LC&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/ijzepeda-LC/repo2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijzepeda-LC&layout=compact" />
+  </a>
 </div>
 
 
 ## 🌟 Featured Repositories
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ijzepeda&repo=hackathon)](https://github.com/ijzepeda/hackathon)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ijzepeda&repo=Pixel_Heist)](https://github.com/ijzepeda/Pixel_Heist)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ijzepeda&repo=Recipix)](https://github.com/ijzepeda/Recipix)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ijzepeda&repo=Kadabra_public)](https://github.com/ijzepeda/Kadabra_public)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ijzepeda&repo=CareNavi)](https://github.com/ijzepeda/CareNavi)
 
 ## 📊 Weekly Development Breakdown
 
